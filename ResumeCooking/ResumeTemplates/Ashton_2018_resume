@@ -1,0 +1,79 @@
+  I’m a self-taught full-stack developer that specializes in front-end development. I typically work with small business owners, or those intending to bootstrap a business, to help build or improve their e-commerce web presence.
+
+If you couldn’t tell by the domain name of my portfolio’s website -- I’m a JavaScript fan. Despite the criticism it receives, which in some aspects is warranted, it is my personal belief that JavaScript will be a key language to know as the modern world and the way we interact with it continues to evolve alongside technology. 
+
+Education Status
+$BDegree
+$BDate
+$University
+
+$MDegree $MDate
+
+$Degree $University
+
+
+Skills 
+AWS:
+- Lambda
+- DynamoDB
+- AppSync
+- S3
+- Cognito
+- Amplify
+Serverless
+Adobe Photoshop
+Adobe Lightroom
+Sketch
+HTML
+CSS
+SCSS
+UI/UX Design
+Bootstrap
+Material-UI
+JavaScript
+React
+React Native
+Redux
+Node
+Express
+MongoDB
+GraphQL
+
+Experience
+$Date
+$JobTitle | $Organization
+
+As a $JobTitle, I wear many hats out of necessity. A successful project usually follows these steps:
+        1. Determine whether the client would benefit from a CMS (Wordpress, Netlify, DatoCMS etc.) vs a full back-end.
+        2. Determine whether the client needs a Web Application or if a static implementation will suffice.     
+        3. Create a wireframe detailing the UI/UX.
+        4. Create a static implementation of the project so that the client may interact with it.
+        5. Make the static implementation responsive so that the client may approve the mobile design.
+        6. if(webApp) { buildWebApp(); };
+        7. Build the back-end, if one is needed.
+
+The technologies I lean on most for front-end development tend to be floating around in the React ecosystem. And, for the back-end, I always utilize a serverless microservices architecture. This includes heavy usage of AWS and services like SendGrid, etc.
+
+As for CMSes, I’m a big fan of headless CMSes. DatoCMS is my go-to solution, due to its ease of use and its GraphQL endpoint.
+
+
+$Date1
+$Organization2 | $JobTitle2
+
+This particular client provided a long-term project that required me to create a web application that could: 
+        1. Provide a list of clients, display their information and their upcoming appointments.
+        2. Create, add, update and delete clients to said list.
+        3. Schedule appointments and send text messages and, or, emails to clients about said appointments.
+
+
+$Date2
+$Organization3 | $JobTitle3
+
+The stack: React, Redux, Node/Express (AWS Lambda), MongoDB (mLab), SendGrid and Twilio.
+$Name
+$JobTitle2
+P: $Contact
+E: $Email
+$Address
+Personal Statement 
+

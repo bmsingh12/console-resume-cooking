@@ -1,0 +1,96 @@
+$Name
+$Address | $Contact | $Email
+
+https://www.linkedin.com/in/vinod-thiagarajan-23569b53/| https://github.com/vin94 
+
+EDUCATION  
+
+$University $MDate
+
+$MDegree
+
+Relevant Courses: Web Development Tools and Methods, Program Structures and Algorithms, Advanced Big Data 
+
+Indexing and Applications, Web Design and User Experience  
+ 
+
+$University                $BDate
+
+$BDegree
+
+Relevant Courses: Object Oriented Design 
+
+             SKILLS   
+
+Languages: Java, Python  
+
+Web Technologies: RESTful API, JSON, JavaScript, HTML, CSS, JSP, Servlets, Elasticsearch, XML 
+
+Tools & IDEs: Git, Jira, Postman, Maven, Gradle, Selenium, Eclipse, Junit 
+
+Virtualization:        Docker, Kubernetes 
+
+Platforms & Databases: MySQL, SQL Server, MongoDB, Oracle, PostgreSQL, Redis, Linux 
+
+Methodologies & Frameworks:                   Agile, J2EE, Spring Boot, Hibernate, Angular, Jenkins  
+
+AWS Technologies: S3, RDS, SNS, EC2, Dynamo DB, Code-deploy, Lambda 
+
+        WORK EXPERIENCE   
+$Organization 
+$JobTitle 	$Date
+
+• Worked on application development and maintenance using Java and Spring Boot 
+•  Developed REST APIs to be accessed by the web client hosted over AWS 
+
+•  Resolved high priority production issues; resulted in reduction of outages 
+•  Contributed to technical design, requirement analysis, implementation and testing 
+
+
+
+$Organization2                                         $Date1
+
+$JobTitle2
+
+• LMS Amesim Simulator Scripting: Used application programming scripts in python to automate simulations and 
+
+build LMS Amesim-based applications for Bosch products 
+
+
+$Organization3
+$JobTitle3
+$Date2
+
+PROJECTS  
+
+Crowdsourcing portal: Spring Boot, Hibernate, Spring, Angular4, MySQL                                        (Sept 17- Dec 17)  
+
+• Created a crowdsourcing portal with functionalities creating companies, funding and employment 
+
+• The platform would support administrative functionality to avoid any rouge activity 
+
+
+
+To do Management Application: Spring Boot, Angular 7, Spring Security                                        (Sept 18 – Dec 18) 
+
+• Built a complete to-do Management Application with login logout functionality and security 
+
+
+
+Big Data Prototype to make insurance claims: Spring Boot, Elasticsearch, Redis                           (Sept 18 - Dec 18)  
+
+• Developed REST APIs using JSON Schema to validate data, Redis to store data and Elasticsearch for querying 
+
+• Application was flexible to add/remove/merge additional properties to the same object or array without invalidating 
+
+schema and implemented ETags as well as Security 
+
+
+
+Database Management System for healthcare delivery by drones: Javascript, PHP, MySQL            (Sept 16-Dec 16) 
+
+• Designed and populated Backend database in MSSQL, Oracle and MySQL using Toad Data Modeler 
+
+• Wrote SQL queries, triggers, stored procedures and functions to return results of searches by user 
+
+
